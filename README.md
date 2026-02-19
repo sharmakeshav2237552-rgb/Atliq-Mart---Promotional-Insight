@@ -1,1 +1,1 @@
-##AtliQ Mart’s Diwali & Sankranti Promotions!
+**AtliQ Mart’s Diwali & Sankranti Promotions!
