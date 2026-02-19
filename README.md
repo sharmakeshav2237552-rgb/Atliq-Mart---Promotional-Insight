@@ -204,9 +204,9 @@ One key limitation was related to the BOGOF promotion data. The dataset does not
 
 ## 👤 Author
 
-Your Name  
+Keshav Sharma
 SQL | Power BI | Data Analytics
 
 ---
 
-⭐ Feel free to fork or explore the project!
+
